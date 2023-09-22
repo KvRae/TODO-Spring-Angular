@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Todo/Backend.iml" filepath="$PROJECT_DIR$/Todo/Backend.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TodoApp-Spring-Angular.iml" filepath="$PROJECT_DIR$/.idea/TodoApp-Spring-Angular.iml" />
     </modules>
   </component>
